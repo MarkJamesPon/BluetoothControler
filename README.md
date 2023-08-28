@@ -1,2 +1,2 @@
 # BluetoothControler
-connected device via Bluetooth，return information via MQTT
+scan device via Bluetooth，return information via MQTT
